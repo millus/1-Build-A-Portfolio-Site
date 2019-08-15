@@ -86,8 +86,9 @@ body {
 
   .hero-img {
     width: 80%;
-    margin: auto;
+    max-height: 284px;
     padding: 0;
+    margin: auto;
   }
 
  /*
