@@ -57,6 +57,7 @@ body {
     flex-wrap: wrap;
     width:100%;
     padding: 10px;
+    max-height: 380px;
   }
 
   .hero-left {
@@ -87,7 +88,6 @@ body {
   .hero-img {
     width: 80%;
     margin: auto;
-    max-height: 284px;
   }
 
  /*
