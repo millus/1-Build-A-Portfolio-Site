@@ -144,6 +144,11 @@ body {
   -webkit-box-orient: vertical;
  }
 
+ .project-disabled{
+   filter: grayscale();
+   pointer-events:none;
+ }
+
  /*
   * Footer
   */
