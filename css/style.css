@@ -135,6 +135,7 @@ body {
  .project-img {
    width: 100%;
    min-height: 150px;
+   object-fit: contain;
  }
 
  .project-description {
